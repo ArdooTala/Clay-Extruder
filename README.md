@@ -7,7 +7,6 @@ The flow rate is controlled manually through a knob and it also includes an I/O 
 #### Hardware
   1. #### Body
     ![Sample text](./Doc/Sample.png)
-
   2. #### Motors and Electronics
     ###### Parts
       - Arduino (Nano or Uno)
@@ -15,10 +14,10 @@ The flow rate is controlled manually through a knob and it also includes an I/O 
       - Stepper Driver
       - Optocoupler
       - 12V Power Supply
-      
-    ###### Circuit
+###### Circuit
       ![Sample text](./Doc/Sample.png)
 
+#### Software
 ###### References:
 - [Sample text](Sample text)
 - [Sample text](Sample text)
