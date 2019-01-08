@@ -6,7 +6,7 @@ The flow rate is controlled manually through a knob and it also includes an I/O 
 
 #### Hardware
   1. #### Body
-    ![Sample text](./Doc/Sample.png)
+     ![Sample text](./Doc/Sample.png)
   2. #### Motors and Electronics
      ###### Parts
          - Arduino (Nano or Uno)
