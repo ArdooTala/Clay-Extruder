@@ -15,7 +15,7 @@ The flow rate is controlled manually through a knob and it also includes an I/O 
         - Optocoupler
         - 12V Power Supply
      ###### Circuit
-        ![Sample text](./Doc/Sample.png)
+        ![Sample text](./Doc/Schematic.png)
 
 #### Software
 ###### References:
