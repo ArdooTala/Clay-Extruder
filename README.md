@@ -9,13 +9,13 @@ The flow rate is controlled manually through a knob and it also includes an I/O 
      ![Sample text](./Doc/Sample.png)
   2. #### Motors and Electronics
      ###### Parts
-         - Arduino (Nano or Uno)
-         - Stepper (Nema 17)
-         - Stepper Driver
-         - Optocoupler
-         - 12V Power Supply
+        - Arduino (Nano or Uno)
+        - Stepper (Nema 17)
+        - Stepper Driver
+        - Optocoupler
+        - 12V Power Supply
      ###### Circuit
-         ![Sample text](./Doc/Sample.png)
+        ![Sample text](./Doc/Sample.png)
 
 #### Software
 ###### References:
