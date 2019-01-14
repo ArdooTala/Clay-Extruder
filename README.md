@@ -23,7 +23,7 @@ This extruder uses an `Auger Screw` to push the clay with control out of the noz
 This project uses an `Optocoupler` to convert the 24V signals from a robot-arm into 5V logical level signal for the `Arduino` in order to introduce an I/O control for the extruder. Also a `Potentiometer` is used to control the flow speed manually.
   1. #### code
 
-      '''C
+      ```C
       // Arduino NANO
 
       #include <SPI.h>
@@ -88,7 +88,7 @@ This project uses an `Optocoupler` to convert the 24V signals from a robot-arm i
         Serial.print(state);
         Serial.println();
       }
-      '''
+      ```
 
 ###### References:
 - [Sample text](Sample text)
